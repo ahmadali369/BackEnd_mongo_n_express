@@ -1,0 +1,5 @@
+{
+    "port": "8080",
+    "dbURI": "mongodb+srv://f200366:oZLMJ5DSmvqRmSud@testcluster.wmvj69r.mongodb.net/?retryWrites=true&w=majority"
+
+}
